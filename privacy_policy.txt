@@ -1,0 +1,5 @@
+Privacy policy for users of Karaoke Legends Android app:
+1. It contains ads.
+2. It requires internet, microphone, camera, and external storage permissions.
+3. It does not use any user information or data.
+4. It does not collect any user information or data.
